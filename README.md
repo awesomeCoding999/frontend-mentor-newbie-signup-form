@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [GitHub repo](https://github.com/awesomeCoding999/frontend-mentor-newbie-signup-form)
+- [Live site](https://awesomecoding999.github.io/frontend-mentor-newbie-signup-form/)
 
 ## My process
 
@@ -39,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
