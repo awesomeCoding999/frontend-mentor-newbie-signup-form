@@ -111,3 +111,35 @@ input::placeholder {
 .terms-link:hover {
   text-decoration: underline;
 }
+
+@media (min-width: 90em) {
+  body {
+    background: url("./images/bg-intro-desktop.png") var(--reddish-orange);
+  }
+  main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 165px;
+    margin-right: 165px;
+  }
+
+  .text-container {
+    width: 525px;
+    text-align: left;
+  }
+
+  .title {
+    font-size: 50px;
+    line-height: 55px;
+  }
+
+  .banner-and-form-container {
+    margin-top: 121px;
+  }
+
+  footer {
+    margin-top: 2rem;
+    text-align: center;
+  }
+}
