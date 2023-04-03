@@ -21,18 +21,18 @@ body {
   font-style: normal;
   color: var(--white);
   background: url("./images/bg-intro-mobile.png") var(--reddish-orange);
-  margin-left: 24px;
-  margin-right: 24px;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 .text-container {
   text-align: center;
-  margin: 88px 0 64px;
+  margin: 5.5rem 0 4rem;
 }
 
 .title {
   font-weight: 700;
-  font-size: 28px;
+  font-size: 1.75rem;
   line-height: 36px;
   letter-spacing: -0.291667px;
   margin-bottom: 1rem;
@@ -40,7 +40,7 @@ body {
 
 .description {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 26px;
 }
 
@@ -48,10 +48,10 @@ body {
   background-color: var(--purple);
   box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
   border-radius: 10px;
-  padding: 18px 66px;
+  padding: 1.125rem 4.125rem;
   text-align: center;
-  margin-bottom: 24px;
-  font-size: 15px;
+  margin-bottom: 1.5rem;
+  font-size: 0.938rem;
   line-height: 26px;
   letter-spacing: 0.267857px;
 }
@@ -61,7 +61,7 @@ form {
   box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
   border-radius: 10px;
   margin-bottom: 1rem;
-  padding: 24px;
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -70,8 +70,8 @@ form {
 input {
   border: 1px solid var(--light-grey);
   border-radius: 5px;
-  padding: 15px 0;
-  padding-left: 19px;
+  padding: 0.938rem 0;
+  padding-left: 1.188rem;
 }
 
 .error-input-styles {
@@ -86,13 +86,13 @@ input {
   color: var(--reddish-orange);
   font-style: italic;
   font-weight: 500;
-  font-size: 11px;
+  font-size: 0.688rem;
   line-height: 16px;
 }
 
 input::placeholder {
   font-weight: 600;
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 26px;
   letter-spacing: 0.25px;
   color: var(--dark-grey);
@@ -107,13 +107,13 @@ input::placeholder {
   border: none;
   text-transform: uppercase;
   cursor: pointer;
-  padding: 15px 44px;
+  padding: 0.938rem 2.75rem;
   color: var(--white);
 }
 
 .terms-services {
   font-weight: 500;
-  font-size: 11px;
+  font-size: 0.688rem;
   line-height: 21px;
   text-align: center;
   color: var(--light-purple);
@@ -136,8 +136,8 @@ input::placeholder {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 165px;
-    margin-right: 165px;
+    margin-left: 10.313rem;
+    margin-right: 10.313rem;
   }
 
   .text-container {
@@ -146,12 +146,12 @@ input::placeholder {
   }
 
   .title {
-    font-size: 50px;
+    font-size: 3.125rem;
     line-height: 55px;
   }
 
   .banner-and-form-container {
-    margin-top: 121px;
+    margin-top: 7.563rem;
   }
 
   footer {
