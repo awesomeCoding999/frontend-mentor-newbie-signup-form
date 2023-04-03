@@ -4,7 +4,17 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ## Mobile<!-- omit in toc -->
 
+![final mobile screenshot](images/final-mobile.png)
+
 ## Desktop<!-- omit in toc -->
+
+### Default state<!-- omit in toc -->
+
+![default state for desktop](images/default-desktop.png)
+
+### Missing form fields
+
+![invalid form submission](images/invalid-form.png)
 
 ## Table of contents<!-- omit in toc -->
 
