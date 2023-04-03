@@ -74,6 +74,22 @@ input {
   padding-left: 19px;
 }
 
+.error-input-styles {
+  color: var(--reddish-orange);
+  border: 2px solid var(--reddish-orange);
+  background: url("./images/icon-error.svg") no-repeat right 7px center;
+  background-size: 20px;
+}
+
+.error-msg {
+  text-align: right;
+  color: var(--reddish-orange);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+}
+
 input::placeholder {
   font-weight: 600;
   font-size: 14px;

@@ -38,35 +38,43 @@
         <p class="banner">
           <strong>Try it free 7 days</strong> then $20/mo. thereafter
         </p>
-        <form action="">
+        <form novalidate id="form" action="">
           <input
             type="text"
             name="first-name"
             id="first-name"
             placeholder="First Name"
+            value=""
             required
           />
+          <p id="first-name-error-msg" class="error-msg"></p>
           <input
             type="text"
             name="last-name"
             id="last-name"
             placeholder="Last Name"
             required
+            value=""
           />
+          <p id="last-name-error-msg" class="error-msg"></p>
           <input
             type="email"
             name="email"
             id="email"
             placeholder="Email Address"
             required
+            value=""
           />
+          <p id="email-error-msg" class="error-msg"></p>
           <input
             type="password"
             name="password"
             id="password"
             placeholder="Password"
             required
+            value=""
           />
+          <p id="password-error-msg" class="error-msg"></p>
           <button class="btn" id="submit-btn" type="submit">
             Claim your free trial
           </button>
